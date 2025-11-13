@@ -31,4 +31,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammdakks&label=Profile%20views&color=0e75b6&style=flat" alt="muhammdakks" /> </p>
 
-https://github.com/MuhammdAkks/MuhammdAkks/blob/output/github-contribution-grid-snake.gif
+
