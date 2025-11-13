@@ -1,4 +1,4 @@
-
+![MasterHead](https://pbs.twimg.com/profile_banners/1378103927628046336/1731025164/1080x360)
 <h1 align="center">Hi 👋, I'm MUHAMMED AKKUŞ</h1>
 <h3 align="center">Goal oriented, motivated and disciplined fourth-year Software Engineering student with practical experience in desktop, web, and mobile development. Strong foundation in algorithm design, objectoriented programming, and database systems. Passionate about building ecient and user-friendly software solutions while continuously learning new technologies.</h3>
 
